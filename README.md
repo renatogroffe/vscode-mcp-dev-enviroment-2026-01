@@ -3,6 +3,9 @@
 Exemplo de arquivo mcp.json do Visual Studio Code configurado para testes de desenvolvimento locais, integrando o GitHub Copilot a MCP Servers do NuGet, Docker Hub, GitHub, Microsoft Learn e um gerador de dados fake (imagem renatogroffe/dotnet10-consoleapp-mcp-fakedata).
 
 Referências utilizadas:
+- [MCP Server do NuGet](https://www.nuget.org/packages/NuGet.Mcp.Server)
+- [MCP Server do Docker Hub](https://hub.docker.com/mcp/server/dockerhub/overview)
+- [MCP Server do GitHub](https://github.com/github/github-mcp-server)
 
 Arquivo **mcp.json** com as configurações:
 
