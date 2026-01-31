@@ -7,6 +7,7 @@ Referências utilizadas:
 - [MCP Server do Docker Hub](https://hub.docker.com/mcp/server/dockerhub/overview)
 - [MCP Server do GitHub](https://github.com/github/github-mcp-server)
 - [MCP Server do Microsoft Learn](https://learn.microsoft.com/en-us/training/support/mcp)
+- [MCP Server de Geração de Dados Fake](https://github.com/renatogroffe/dotnet10-consoleapp-mcp-fakedata)
 
 Arquivo **mcp.json** com as configurações:
 
