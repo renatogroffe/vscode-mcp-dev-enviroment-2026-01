@@ -6,6 +6,7 @@ Referências utilizadas:
 - [MCP Server do NuGet](https://www.nuget.org/packages/NuGet.Mcp.Server)
 - [MCP Server do Docker Hub](https://hub.docker.com/mcp/server/dockerhub/overview)
 - [MCP Server do GitHub](https://github.com/github/github-mcp-server)
+- [MCP Server do Microsoft Learn](https://learn.microsoft.com/en-us/training/support/mcp)
 
 Arquivo **mcp.json** com as configurações:
 
